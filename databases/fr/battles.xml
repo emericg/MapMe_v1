@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--           MapMe : BDD            -->
+<!--        Random Battles List       -->
+<!-- http://en.wikipedia.org/wiki/List_of_battles -->
+
+<database>
+	<infos id="battle" language="fr" version="1.0" />
+	
+	<cat1 name="Les batailles célèbres">
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+	</cat1>
+	
+	<cat2 name="Les batailles aériennes célèbres">
+		<battle name="bataille de Neuve Chapelle" war="1ere guerre mondiale" date="mars 1915" coordinates="" />
+		<battle name="opération Bodenplatte" war="2eme guerre mondiale" date="1945" coordinates="" />
+		<battle name="bataille de Normandie" war="2eme guerre mondiale" date="1944" coordinates="" />
+		<battle name="bataille de France" war="2eme guerre mondiale" date="" coordinates="" />
+		<battle name="bataille d'Angleterre" war="2eme guerre mondiale" date="" coordinates="" />
+		<battle name="bataille de Midway" war="2eme guerre mondiale" date="1942" coordinates="" />
+		<battle name="attaque sur Pearl Harbor" war="2eme guerre mondiale" date="décembre 1941" coordinates="" />
+		<battle name="raid de Doolittle" war="2eme guerre mondiale" date="1942" coordinates="" />
+		<battle name="bataille de Tarente" war="2eme guerre mondiale" date="1940" coordinates="" />
+		<battle name="bataille de la Mer de Corail" war="2eme guerre mondiale" date="1942" coordinates="" />
+		<battle name="bataille du golfe de Leyte" war="2eme guerre mondiale" date="1944" coordinates="" />
+		<battle name="opération Desert Storm" war="Guerre du golfe" date="1991" coordinates="" />
+		<battle name="Mig Alley" war="Guerre de Corée" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+	</cat2>
+	
+	<cat3 name="Les batailles navales célèbres">
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+		<battle name="" war="" date="" coordinates="" />
+	</cat3>
+	
+	<cat4 name="1ere guerre mondiale">
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+	</cat4>
+	
+	<cat5 name="2eme guerre mondiale">
+		<battle name="Bataille de Guadalcanal" war="2eme guerre mondiale" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+		<battle name="" date="" coordinates="" />
+	</cat5>

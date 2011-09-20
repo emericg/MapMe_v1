@@ -1,0 +1,38 @@
+< README MapMe >
+< version 0.67 >
+
+
+DEPENDENCIES
+===========
+SDL
+SDL_image
+SDL_mixer
+SDL_ttf
+
+
+
+COMPILATION
+===========
+You will need CMAKE and GCC to build MapMe.
+In src/ :
+	cmake .
+	make
+
+
+
+INSTALLATION
+============
+Put the "MapMe" folder anywhere you want.
+
+
+
+UTILIZATION
+===========
+Launch "MapMe" or "MapMe.exe", depending on your operating system.
+
+
+
+LICENCES
+========
+Sourcecode is licencing under GPLv3
+Graphics are under a lot of different licences...
